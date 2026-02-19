@@ -8,7 +8,7 @@ Reference specific files when explaining features.
 
 ## Project documentation
 - Technical docs are in `/docs/technical` — use these to understand the codebase architecture, modules, and API structure.
-- Product docs are in `/docs/product` — these contain our personas, KPIs, product strategy, and key decisions. Always reference these when answering product questions.
+- You have connection with Notion via MCP. We have the entire product documentation and PM space in Notion (user personas, product strategy, competitor research and more). When you are prompted to read from or update product docs, always use Notion MCP.
 
 ## How to answer
 - When I ask about a feature, connect the technical implementation to the product context (who uses it, why it exists, what KPIs it affects).
